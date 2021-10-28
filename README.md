@@ -115,3 +115,5 @@
 ### Level 28
 
 **grid-template: 1fr 50px / 1fr 4fr;**
+
+[Final Level](https://raw.githubusercontent.com/jenny12012/gridGardenSolution/lastLevel/image/28.png)
